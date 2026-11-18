@@ -14,6 +14,7 @@ O objetivo é revisar conceitos fundamentais da linguagem, desenvolver o racioc�
 - [x] Funções matemáticas (`Math`)
 - [x] Operadores lógicos (`&&`, `||` e `!`)
 - [x] Operadores aritméticos e relacionais
+- [x] Estrutura condicional `switch case`
 
 ## 🛠️ Tecnologias e ferramentas
 
