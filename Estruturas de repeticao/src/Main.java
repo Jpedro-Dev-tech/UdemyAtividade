@@ -17,7 +17,7 @@
             }
         }
     }*/
-
+/*
 import java.util.Scanner;
 
 public class Main {
@@ -31,5 +31,16 @@ public class Main {
             x = scanner.nextInt();
         }
         System.out.println(soma);
+    }
+}*/
+//Estrutura de repetição do while
+public class Main {
+    public static void main(String[] args) {
+        int n = 1;
+        do {
+            System.out.printf("Valor de n é: ");
+            System.out.println(n++);
+        }while (n < 11);
+
     }
 }
