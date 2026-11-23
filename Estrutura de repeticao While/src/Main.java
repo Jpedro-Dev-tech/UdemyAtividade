@@ -1,5 +1,4 @@
-import org.w3c.dom.ls.LSOutput;
-
+/*
 import java.util.Scanner;
 
 public class Main {
@@ -14,5 +13,18 @@ public class Main {
             senha = scanner.nextInt();
         }
         System.out.println("Acesso permitido");
+    }
+}*/
+
+public class Main {
+    public static void main(String[] args) {
+        int x = 5;
+        int y = 0;
+        while (x > 2) {
+            System.out.print(x);
+            y = y + x;
+            x = x - 1;
+        }
+        System.out.println(y);
     }
 }
