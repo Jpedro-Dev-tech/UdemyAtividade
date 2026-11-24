@@ -16,6 +16,7 @@ O objetivo é revisar conceitos fundamentais da linguagem, desenvolver o racioc�
 - [x] Operadores aritméticos e relacionais
 - [x] Estrutura condicional `switch case`
 - [x] Estruturas de repetição (`for`, `while` e `do while`)
+- [x] Função Max e Min
 
 ## 🛠️ Tecnologias e ferramentas
 
