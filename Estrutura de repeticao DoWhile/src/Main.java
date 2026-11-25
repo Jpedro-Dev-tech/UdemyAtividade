@@ -7,7 +7,7 @@
         } while (contador < 5);
     }
 }*/
-
+/*
 public class Main {
     public static void main(String[] args) {
         int y = 0; //soma y mais 5 e incrementa mais 1, enquanto y for menor que x
@@ -18,5 +18,20 @@ public class Main {
             y++;
         }while (y  < x);
         System.out.println(y);
+    }
+}*/
+
+public class Main {
+    public static void main(String[] args) {
+        //Soma de numeros pares de 0 a 10
+        int soma = 0;
+        int i = 0;
+        do {
+            if (i %2 == 0) {
+                soma += i;
+            }
+            i++;
+        } while (i <= 10);
+        System.out.println("Soma dos números pares de 0 a 10: " + soma);
     }
 }
